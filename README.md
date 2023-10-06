@@ -8,3 +8,5 @@
 + Add forms and maps.
 
 [Live demo](https://amansgz.github.io/static_website3/)
+
+![preview screenshot](./styles/imgs/preview.png)
